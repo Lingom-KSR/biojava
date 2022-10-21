@@ -46,7 +46,7 @@
 		<dependency>
 			<groupId>org.biojava</groupId>
 			<artifactId>biojava-core</artifactId>
-			<version>5.0.0-SNAPSHOT</version>
+			<version>5.4.0</version>
 			<scope>compile</scope>
 		</dependency>
 
